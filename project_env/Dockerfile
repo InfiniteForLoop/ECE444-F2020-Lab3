@@ -4,5 +4,5 @@ RUN apt-get install -y python-pip python-dev build-essential
 COPY . /
 WORKDIR /
 RUN pip install -r requirements.txt
-ENTRYPOINT ["py"]
+ENTRYPOINT ["python3"]
 CMD ["hello.py"]
