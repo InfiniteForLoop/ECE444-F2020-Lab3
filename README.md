@@ -9,6 +9,8 @@
 5. Go to http://localhost:5000/ on your preferred browser
 
 
+Docker file is located https://github.com/InfiniteForLoop/ECE444-F2020-Lab3/tree/lab4_Microservice_Experiment
+
 ![alt text](https://github.com/InfiniteForLoop/ECE444-F2020-Lab3/blob/lab4_Microservice_Experiment/activity_1_3.png)
 ![alt text](https://github.com/InfiniteForLoop/ECE444-F2020-Lab3/blob/lab4_Microservice_Experiment/activity_2_3.png)
 ![alt text](https://github.com/InfiniteForLoop/ECE444-F2020-Lab3/blob/lab4_Microservice_Experiment/activity_3_3.png)
